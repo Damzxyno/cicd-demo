@@ -6,5 +6,6 @@ public class Main {
         String code = d.code("Hello Nigeria");
         System.out.println(code);
 
+        System.out.println(d.decode());
     }
 }
